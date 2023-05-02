@@ -30,7 +30,7 @@ app.use("/people", peopleRouter)
 
 
 //HOME ROUTE
-app.get("/", (req,res)=>res.send('Hello react'))
+app.get("/", (req,res)=>res.send('Hello React, Successful deploy.'))
 
 
 
